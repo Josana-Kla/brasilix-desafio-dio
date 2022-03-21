@@ -60,7 +60,9 @@ Após baixar o projeto, você precisa descompactar a pasta baixada em .zip por m
 
 ## <a name=“funcionalidades-da-aplicação”>🔨Funcionalidades da aplicação<a/> 
 
+<p align="justify">
 Ao rodar o arquivo index.html com o navegador de sua preferência, você acessará uma landing page com header: logo da Brasilix, início, estados, sobre e contato; banner principal com informações sobre a cidade destacada e mais dois botões: trailer da cidade e mais informações; e logo abaixo, uma lista das cidades de Minas Gerais em ordem alfabética e agrupadas em cards.
+</p>
 
 ### O que foi feito e próximos passos:
 - [x] Estrutura básica do projeto (head, banner principal e cards de cidades)
