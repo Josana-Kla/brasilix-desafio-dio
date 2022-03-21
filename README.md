@@ -77,10 +77,8 @@ Ao rodar o arquivo index.html com o navegador de sua preferência, você acessar
 
 ### Abaixo temos a simulação da aplicação:
   
-...
-  
 <p align="center">
-  <img src="" title="" alt="" />
+  <img src="./assets/para-readme/gifbrasilix.gif" title="landing lage Brasilix" alt="o gif mostra a landing page Brasilix com o header, banner principal e a lista de cidades de Minas Gerais em ordem alfabética e em cards. Quando o usuário clica no botão "trailer da cidade", localizada no banner principal, uma outra aba é aberta no navegador web fazendo o redirecionamento para um vídeo no youtube sobre a cidade em destaque/>
 </p>
  
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
